@@ -2,6 +2,9 @@
  数字四川算法赛道 Baseline
  
  
+ train_voc_pre 语音信息预处理
+ train_sms_pre 短信信息预处理
+ train_app_pre 使用app信息预处理
  
  
 catboost 0.8822  
